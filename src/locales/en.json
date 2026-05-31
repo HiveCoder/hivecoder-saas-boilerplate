@@ -1,8 +1,125 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Hive — Powerful in One",
+    "meta_description": "Hive is your all-in-one SaaS platform. Built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
   },
+  "Navbar": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "product": "Product",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "blog": "Blog",
+    "about": "About"
+  },
+  "LocaleSwitcher": {
+    "button_label": "Change language"
+  },
+  "Hero": {
+    "follow_twitter": "Follow Hive on Twitter",
+    "title": "Everything your business needs, <important>Powerful in One</important>.",
+    "description": "Hive is your complete SaaS platform — auth, billing, teams, analytics, and more. Launch faster. Scale smarter.",
+    "primary_button": "Get Started with Hive",
+    "secondary_button": "View on GitHub"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Everything You Need to Run Your Business",
+    "section_description": "Hive brings together all the tools you need — in one powerful, unified platform.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "Production-ready tooling so you can focus on building your product, not your stack."
+  },
+  "Pricing": {
+    "section_subtitle": "Pricing",
+    "section_title": "Simple, Transparent Pricing",
+    "section_description": "Start free and scale as you grow. No hidden fees, no surprises.",
+    "button_text": "Get started"
+  },
+  "PricingPlans": {
+    "free_plan_name": "Free",
+    "premium_plan_name": "Pro",
+    "enterprise_plan_name": "Enterprise"
+  },
+  "PricingCard": {
+    "free_plan_description": "For individuals",
+    "premium_plan_description": "For growing teams",
+    "enterprise_plan_description": "For industry leaders",
+    "plan_price": "${price}",
+    "plan_interval_month": "/ month",
+    "plan_interval_year": "/ year"
+  },
+  "PricingFeatures": {
+    "feature_team_member": "Up to {number} team members",
+    "feature_website": "Up to {number} workspaces",
+    "feature_storage": "{number} GB of storage",
+    "feature_transfer": "{number} TB of transfer",
+    "feature_email_support": "Email support"
+  },
+  "SponsorLogos": {
+    "sponsored_by": "Powered by",
+    "clerk_logo": "Clerk logo",
+    "sentry_logo": "Sentry logo",
+    "crowdin_logo": "Crowdin logo",
+    "arcjet_logo": "Arcjet logo",
+    "coderabbit_logo": "CodeRabbit logo",
+    "nextjs_boilerplate_logo": "Hive logo"
+  },
+  "FAQ": {
+    "question": "What is Hive?",
+    "answer": "Hive is an all-in-one SaaS platform designed to give your business every tool it needs in a single, unified workspace. From authentication and billing to team management and analytics — it's all here, Powerful in One."
+  },
+  "CTA": {
+    "title": "Ready to build with Hive?",
+    "description": "Join thousands of teams who chose Hive to power their business.",
+    "button_text": "Get Started Free"
+  },
+  "Footer": {
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "footer_text": "© {year} Hive. All rights reserved."
+  },
+  "SignIn": {
+    "meta_title": "Sign in to Hive",
+    "meta_description": "Sign in to your Hive account and get back to work."
+  },
+  "SignUp": {
+    "meta_title": "Create your Hive account",
+    "meta_description": "Join Hive and start building your business today."
+  },
+  "DashboardLayout": {
+    "meta_title": "Hive Dashboard",
+    "meta_description": "Your Hive workspace — manage your team, projects, and settings all in one place.",
+    "home": "Home",
+    "members": "Members",
+    "settings": "Settings"
+  },
+  "DashboardIndexPage": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welcome to Hive",
+    "message_state_title": "You're all set!",
+    "message_state_description": "Start customizing your workspace by editing <code>dashboard/page.tsx</code>.",
+    "message_state_alternative": "Need more power? Hive supports multi-tenancy, roles & permissions, Stripe billing, and more.",
+    "max_message": "Contact us at hansreyes30@gmail.com for enterprise support."
+  },
+  "UserProfilePage": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your profile"
+  },
+  "OrganizationProfilePage": {
+    "title_bar": "Organization",
+    "title_bar_description": "Manage your organization"
+  }
+}
   "Navbar": {
     "sign_in": "Sign in",
     "sign_up": "Sign up",

@@ -26,7 +26,7 @@ export const Hero = () => {
         title={t.rich('title', {
           important: chunks => (
             <span className="
-              bg-linear-to-r from-indigo-500 via-purple-500 to-pink-500
+              bg-linear-to-r from-amber-400 via-yellow-400 to-orange-400
               bg-clip-text text-transparent
             "
             >
